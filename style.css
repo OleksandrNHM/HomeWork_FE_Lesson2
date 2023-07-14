@@ -1,0 +1,61 @@
+.blog{
+    text-align: center;
+    color: brown;
+}
+
+.my_hobby{
+    border: 2px solid rgba(188, 143, 143, 0.473);
+    background-color:antiquewhite;
+    height: 300px;
+}
+
+.img{
+    width: 300px;
+    height: 200px;
+    padding: 8px;
+}
+
+.text{
+    margin: 0 5px 5px 5px;
+    font-style: italic;
+    text-indent: 20px;
+    font-size: 23px;
+}
+
+.reference{
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.programmer{
+    border: 2px solid rgba(165, 42, 42, 0.418);
+    background-color:rgba(222, 184, 135, 0.692);
+    height: 300px;
+    margin-top: 15px;
+}
+
+.gym{
+    border: 2px solid rgba(107, 49, 49, 0.678);
+    background-color:rgba(151, 104, 58, 0.658);
+    height: 300px;
+    margin-top: 15px;   
+}
+
+.social{
+    border: 2px solid rgba(165, 42, 42, 0.479);
+    margin-top: 15px;
+    padding: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/*здесь пришлось погуглить чтобы выровнять ссылки по центру*/
+
+.social_img{
+    width: 40px;
+    height: 40px;
+    margin: 5px 40px 5px 5px;
+}
+
+
+
